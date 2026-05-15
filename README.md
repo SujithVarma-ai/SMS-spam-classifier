@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ SMS Spam Classifier
 
 A professional, lightweight, and deployment-ready Streamlit web application that uses Machine Learning (Multinomial Naive Bayes) and Natural Language Processing (NLTK) to classify SMS messages as either **Spam** or **Ham (Safe)**.
@@ -57,3 +58,6 @@ Deploying this app to the public web is incredibly easy using Streamlit Communit
 - **Preprocessing**: Lowercasing, Tokenization, Special Character Removal, Stop Word Removal, Stemming (PorterStemmer).
 - **Vectorization**: TF-IDF (Term Frequency-Inverse Document Frequency).
 - **Algorithm**: Multinomial Naive Bayes (Optimized for high precision to prevent false positives).
+=======
+# SMS-spam-classifier
+>>>>>>> 1438f64e02956ec27453637e835ed5b402e0c6ed

@@ -86,4 +86,5 @@ SPAM MESSAGE
 ```
 # 📸 Application Screenshot
 
-![SMS Spam Classifier](https://raw.githubusercontent.com/SujithVarma-ai/SMS-spam-classifier/main/screenshot.png)
+![App Screenshot](https://github.com/SujithVarma-ai/SMS-spam-classifier/blob/main/Screenshot%202026-05-15%20132801.png)
+

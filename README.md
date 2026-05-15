@@ -84,3 +84,6 @@ Prediction:
 ```text
 SPAM MESSAGE
 ```
+# 📸 Application Screenshot
+
+![SMS Spam Classifier](https://raw.githubusercontent.com/SujithVarma-ai/SMS-spam-classifier/main/screenshot.png)

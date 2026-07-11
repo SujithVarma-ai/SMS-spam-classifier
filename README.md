@@ -10,6 +10,12 @@ A Machine Learning powered Streamlit web application that classifies SMS message
 
 ---
 
+# 📸 Application Screenshot
+
+![App Screenshot](https://github.com/SujithVarma-ai/SMS-spam-classifier/blob/main/Screenshot%202026-05-15%20132801.png)
+
+---
+
 # 📌 Overview
 
 This project uses Machine Learning and NLP techniques to automatically detect spam SMS messages. The application processes text messages, transforms them into numerical vectors using TF-IDF Vectorization, and predicts whether the message is spam or safe using a trained Multinomial Naive Bayes model.
@@ -84,7 +90,5 @@ Prediction:
 ```text
 SPAM MESSAGE
 ```
-# 📸 Application Screenshot
 
-![App Screenshot](https://github.com/SujithVarma-ai/SMS-spam-classifier/blob/main/Screenshot%202026-05-15%20132801.png)
 
